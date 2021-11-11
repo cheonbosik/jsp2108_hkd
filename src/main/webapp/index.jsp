@@ -19,7 +19,7 @@
 	  <div class="row">
 	    <div class="col-sm-4">
 	      <h2>방명록</h2>
-	      <h5><a href="#">바로가기 ▷</a></h5>
+	      <h4><a href="#">바로가기 ▷</a></h4>
 	      <div class="fakeimg">Fake Image</div>
 	      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
 	      <h3>Some Links</h3>
